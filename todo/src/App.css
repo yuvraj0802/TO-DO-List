@@ -1,0 +1,81 @@
+.addButton{
+    position:absolute;
+    top: 10px;
+    right: 10px;
+}
+.dialogParent{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dialog{
+    height: 60vh;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+.mybtn{
+    height: 40px;
+    width: 250px;
+    border: none;
+    border-radius: 10px;
+}
+.Description{
+    border: none;
+    border-radius: 10px;
+}
+textarea{
+    border-radius: 10px;
+}
+
+.set{
+    margin-top: 20px;
+    display: inline-block;
+    height: 50px;
+    width: 225px;
+    background-color: blueviolet;
+    color: white;
+}
+.in2{
+    display: flex;
+    justify-content: center;
+}
+.inl{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: white;
+    height: 80px;
+    width: 450px;
+    color: black;
+}
+
+.mydialog{
+    height: 100vh ;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(225, 221, 213);
+    border-radius: 10px;
+}
+
+
+.icon{
+    font-size: 30px;
+}
+
+.inoneline{
+    display: inline-block;
+}
+
+.btn{
+    margin-top:30px;
+    height: 50px;
+}
